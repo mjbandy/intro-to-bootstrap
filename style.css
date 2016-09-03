@@ -1,0 +1,39 @@
+.btn-success {
+  background-color: black;
+}
+li {
+  height: 50px;
+  background-color: lightblue;
+}
+
+section {
+  background-color: pink;
+}
+
+h2 {
+  background-color: lemonchiffon;
+}
+
+.show-grid {
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.show-grid div {
+  border: 1px solid black;
+  background-color: lightgrey;
+
+}
+.row {
+  margin-top: 10px;
+}
+h4 {
+  color: red;
+}
+.top {
+  margin-top: 100px;
+}
+
+code {
+  font-size: 36px;
+}
